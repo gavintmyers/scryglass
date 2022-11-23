@@ -1,4 +1,4 @@
-# 🔮 Scryglass
+# 🔮 Scryglass [![Gem Version](https://badge.fury.io/rb/scryglass.svg)](https://badge.fury.io/rb/scryglass)
 
 Scryglass is a ruby console tool for visualizing and actively exploring objects (large, nested, interrelated, or unfamiliar). You can navigate nested arrays, hashes, instance variables, ActiveRecord
 relations, and unknown Enumerable types like an expandable/collapsable file tree in an intuitive UI.
