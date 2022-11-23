@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "scryglass"
   spec.version       = Scryglass::VERSION
   spec.authors       = ["Gavin Myers"]
-  spec.email         = ["gavin.myers@annkissam.com"]
+  spec.email         = ["gavintmyers@gmail.com"]
   spec.licenses      = ['MIT']
 
   spec.summary       = 'Scryglass is a ruby console tool for visualizing ' \
@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
     "expandable/collapsable file tree in an intuitive UI.\n\n" \
     'Objects and child objects can also be inspected through a variety of ' \
     'display lenses, returned directly to the console, and more!'
-  spec.homepage      = "https://github.com/annkissam/scryglass"
+  spec.homepage      = "https://github.com/gavintmyers/scryglass"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
